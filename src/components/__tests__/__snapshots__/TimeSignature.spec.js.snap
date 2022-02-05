@@ -5,7 +5,9 @@ exports[`TimeSignature renders 1`] = `
   <div>
     <svg
       baseProfile="tiny"
+      data-testid="TimeSignature"
       height="49.5px"
+      style="display: block;"
       version="1.2"
       viewBox="0 0 43 99"
       width="21.5px"
