@@ -34,7 +34,7 @@
   }
 
   .barline {
-    left: 300px;
+    left: 281px;
     transform: rotate(90deg);
     border-style: solid;
     position: absolute;
