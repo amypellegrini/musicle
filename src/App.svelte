@@ -6,6 +6,11 @@
 	<h1>Musicle</h1>
 	<div class="content-wrapper">
 		<Row />
+		<Row />
+		<Row />
+		<Row />
+		<Row />
+		<Row />
 	</div>
 </main>
 

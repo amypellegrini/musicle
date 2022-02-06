@@ -2,7 +2,7 @@
   import TimeSignature from "./TimeSignature.svelte";
 </script>
 
-<div class="row-wrapper">
+<div class="row-wrapper" data-testid="Row">
   <TimeSignature />
   <hr class="row-line line" />
   <hr class="barline line" />
@@ -12,6 +12,7 @@
   .row-wrapper {
     position: relative;
     padding: 0;
+    margin-bottom: 35px;
   }
 
   .line {
